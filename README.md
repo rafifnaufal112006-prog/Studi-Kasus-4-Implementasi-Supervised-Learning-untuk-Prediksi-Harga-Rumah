@@ -1,1 +1,2 @@
-# Studi-Kasus-4-Implementasi-Supervised-Learning-untuk-Prediksi-Harga-Rumah
+# Studi Kasus 4 Implementasi Supervised Learning untuk Prediksi Harga Rumah
+Program ini merupakan implementasi alur kerja Supervised Learning berbasis Python menggunakan Scikit-Learn. Program ini memproses data fitur properti, membaginya menjadi data latih dan data uji, melatih model regresi linear untuk mengenali pola harga, serta mengevaluasi performa model menggunakan metrik statistik $R^2$ guna memprediksi nilai properti secara akurat.
